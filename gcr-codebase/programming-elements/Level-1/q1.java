@@ -1,4 +1,4 @@
-public class Main {
+public class q1{
     public static void main(String[] args) {
         int DOB = 2000;
         int year = 2024;
